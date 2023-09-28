@@ -1,8 +1,7 @@
-package com.example.hellospring;
+package hello.hellospring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.thymeleaf.engine.IterationStatusVar;
 
 @SpringBootApplication
 public class HelloSpringApplication {
